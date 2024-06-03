@@ -61,9 +61,9 @@ Contributions are welcome! Please follow these steps:
    git push origin feature-name
 5. **Create a pull request** on GitHub.
 
-**License**
+## License
 This project is licensed under the MIT [LICENSE](#LICENSE). See the LICENSE file for details.
 
-**Contact**
+## Contact
 For any questions or suggestions, feel free to contact:
 Ahmad Arif Nuhuda - [GitHub](#GitHub)
