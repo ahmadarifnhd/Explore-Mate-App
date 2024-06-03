@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Wisata</string>
+
+    <string name="selamat_datang_title_a">Selamat</string>
+    <string name="selamat_datang_title_b">Datang</string>
+    <string name="selamat_datang_desc">Rekomendasi untuk perjalanan anda disini</string>
+    <string name="selamat_datang_action">Mulai</string>
+
+    <string name="halaman_depan_masuk">Masuk</string>
+    <string name="halaman_depan_daftar">Daftar Akun</string>
+
+    <string name="buat_akun_textfield_nama">Nama :</string>
+    <string name="buat_akun_textfield_email">Email :</string>
+    <string name="buat_akun_textfield_kata_sandi">Kata Sandi :</string>
+    <string name="buat_akun_textfield_ulangi_kata_sandi">Ulangi Kata Sandi :</string>
+    <string name="buat_akun_action">Daftar</string>
+
+    <string name="masuk_textfield_email">Email :</string>
+    <string name="masuk_textfield_kata_sandi">Kata Sandi :</string>
+    <string name="masuk_action_masuk">Masuk</string>
+    <string name="masuk_lupa_kata_sandi">Lupa Kata Sandi</string>
+
+    <string name="reset_kata_sandi_textfield_email">Kata Sandi :</string>
+    <string name="reset_kata_sandi_textfield_kata_sandi">Konfirmasi Kata Sandi :</string>
+    <string name="reset_kata_sandi_masuk">Reset Kata Sandi</string>
+
+    <string name="profile_halo">Halo</string>
+    <string name="profile_name">Jessica</string>
+    <string name="profile_textfield_nama">Nama</string>
+    <string name="profile_textfield_email">Email Address</string>
+    <string name="profile_textfield_password_lama">Password Lama</string>
+    <string name="profile_textfield_password_baru">Password Baru</string>
+    <string name="profile_textfield_password_konfirmasi">Konfirmasi Password</string>
+    <string name="profile_action">Perbarui</string>
+
+    <string name="beranda_halo">Halo</string>
+    <string name="beranda_name">Jessica</string>
+    <string name="beranda_title">Beranda</string>
+    <string name="beranda_desc">Habiskan masa mudamu untuk menjelajahi dunia</string>
+    <string name="beranda_act_recomm">Rekomendasi</string>
+    <string name="beranda_act_history">Riwayat</string>
+
+    <string name="gunung_bromo_keterangan">Keterangan</string>
+
+    <string name="rencana_wisata_halo">Halo</string>
+    <string name="rencana_wisata_nama">Jessica</string>
+    <string name="rencana_wisata_date">Tanggal</string>
+    <string name="rencana_wisata_plan">Tulis Rencanamu</string>
+
+    <string name="riwayat_wisata_title">Riwayat</string>
+</resources>
