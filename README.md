@@ -33,14 +33,14 @@ Explore-Mate-App is an Android application designed to help users explore and di
 - Connect an Android device or use an emulator.
 - Click the Run button.
 
-**Usage**
+## Usage
 - **Launch the ap**p on your Android device.
 - **Explore destinations** by browsing the home screen or using the search functionality.
 - **View detailed information** about a destination by clicking on it.
 - **Save favorite destinations **by clicking the favorite button.
 - **Read and write reviews** for destinations to share your experience with other users.
 
-**Architecture**
+## Architecture
 This app follows the MVVM (Model-View-ViewModel) architecture pattern, ensuring a clean separation of concerns and facilitating easier testing and maintenance.
 - **Model**: Represents the data and business logic.
 - **View** : Represents the UI components and their interactions.
