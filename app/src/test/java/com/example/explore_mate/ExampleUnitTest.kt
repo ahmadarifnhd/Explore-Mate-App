@@ -1,4 +1,4 @@
-package com.example.wisata
+package com.example.explore_mate
 
 import org.junit.Test
 

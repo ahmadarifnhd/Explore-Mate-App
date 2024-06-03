@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.wisata'
+    namespace 'com.example.explore_mate'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.wisata"
+        applicationId "com.example.explore_mate"
         minSdk 28
         targetSdk 34
         versionCode 1
