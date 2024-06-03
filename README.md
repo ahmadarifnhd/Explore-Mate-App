@@ -1,5 +1,5 @@
 # Explore-Mate-App
-Explore-Mate-App is an Android application designed to help users explore and discover tourist destinations. This app provides information about various places, including descriptions, locations, and images, enhancing the user experience for travelers.
+Explore-Mate is an Android application designed to be your travel companion in exploring the world. This application will help you find interesting tourist destinations that suit your interests, by providing complete and easily accessible information. There is a place recommendation feature where perhaps these recommendations will help you in determining your tourist destination. This application is designed to be as easy as possible to be understood by various groups.
 
 ## Table of Contents
 - [Features](#features)
