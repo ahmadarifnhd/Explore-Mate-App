@@ -3,7 +3,6 @@ Explore-Mate is an Android application designed to be your travel companion in e
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Architecture](#architecture)
@@ -29,7 +28,7 @@ Explore-Mate is an Android application designed to be your travel companion in e
 3. **Build the project** :
 - Allow Android Studio to install the required dependencies.
 - Build the project using **Build** -> **Make Project**.
-4. **Run the app **:
+4. **Run the app**:
 - Connect an Android device or use an emulator.
 - Click the Run button.
 
@@ -37,7 +36,7 @@ Explore-Mate is an Android application designed to be your travel companion in e
 - **Launch the ap**p on your Android device.
 - **Explore destinations** by browsing the home screen or using the search functionality.
 - **View detailed information** about a destination by clicking on it.
-- **Save favorite destinations **by clicking the favorite button.
+- **Save favorite destinations**by clicking the favorite button.
 - **Read and write reviews** for destinations to share your experience with other users.
 
 ## Architecture
@@ -66,4 +65,4 @@ This project is licensed under the MIT [LICENSE](#LICENSE). See the LICENSE file
 
 ## Contact
 For any questions or suggestions, feel free to contact:
-Ahmad Arif Nuhuda - [GitHub](#GitHub)
+Ahmad Arif Nuhuda - [GitHub](https://github.com/ahmadarifnhd)
